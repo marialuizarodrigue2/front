@@ -1,0 +1,42 @@
+/* Estilize o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #00f8f8;
+    margin: 10px;
+    padding: 5px;
+}
+
+/* Estilize o cabeçalho h1 */
+h1 {
+    font-size: 28px;
+    color: rgb(0, 0, 0)3c3;
+    margin-bottom: 20px;
+}
+
+/* Estilize o formulário */
+#meuFormulario {
+    background-color: #df06f7;
+    padding: 20px;
+    border: 4px solid #008cff;
+}
+
+/* Estilize os botões do formulário */
+button {
+    background-color: #006eff;
+    color: #000000;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Estilize a lista de vídeos salvos */
+.videosSalvos {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #fff8f8;
+}
+
+.videosSalvos li {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
